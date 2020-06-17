@@ -1,2 +1,2 @@
-# buildingyourselg.github.io
+# buildingyourself.github.io
 learning something new...
